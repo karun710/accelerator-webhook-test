@@ -9,3 +9,4 @@ test 05 - same
 test 06 - push worked but testing with tables deleted
 test 07
 test 08
+test 09
